@@ -6,10 +6,6 @@ This is the Curriculum we will be following. It is a compilation of resources an
 #F ind a study buddy
 Kindly let us interact well in the group, it will go along way in helping us. 
 
-# Components
-3 Projects
-1 Weekly assignment. Pick 1 from the course for each week, do it in a weekend.
-
 # Time Included
 2-3 Hours of Study per Day
 
