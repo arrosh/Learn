@@ -3,14 +3,14 @@ Learn Data science
 #Course Objective
 This is the Curriculum we will be following. It is a compilation of resources and curricullum created by some experts and are available online. It may interest you that this isn't the whole of data science. However, I hope it is a good start to your data science and machine learning journey. This curicullum will be sectionalized into categories. Python, MAths and Statistics (Optional, at least for NOW), Machine learning, SQL and Reporting (Dashboard). I will be updating it as soon as I can.  
 
-Find a study buddy
+#Find a study buddy
 Kindly let us interact well in the group, it will go along way in helping us. 
 
-Components
+#Components
 3 Projects
 1 Weekly assignment. Pick 1 from the course for each week, do it in a weekend.
 
-Couse Included
+#Couse Included
 12 Weeks
 2-3 Hours of Study per Day
 
