@@ -10,13 +10,15 @@ Kindly let us interact well in the group, it will go along way in helping us.
 3 Projects
 1 Weekly assignment. Pick 1 from the course for each week, do it in a weekend.
 
-# Couse Included
+# Time Included
 12 Weeks
 2-3 Hours of Study per Day
 
 # Python For Data Science
 Week 1 and 2 : EdX https://www.edx.org/course/introduction-python-data-science-2
+
 Weeek 3 and 4 : Chapters 1 - 4 of this book https://github.com/jakevdp/PythonData...
+
 Week 5  : Work through as many of the examples as you fancy in Chapters 6 and 7 here https://scipython.com/book/
 
 Some pandas code examples https://github.com/wesm/pydata-book
